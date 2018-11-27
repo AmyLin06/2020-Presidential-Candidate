@@ -1,0 +1,60 @@
+
+.title{
+    background: url("https://png.pngtree.com/thumb_back/fh260/back_pic/03/83/11/2157c84a65827a8.jpg");
+    color: black;
+    text-align: center;
+    border: 20px solid silver;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+    background-size: cover;
+}
+.left{
+    background: url("https://images.pexels.com/photos/5412/water-blue-ocean.jpg?auto=compress&cs=tinysrgb&h=350");
+    width: 35%;
+    border: 20px solid silver;
+    margin: 10px;
+    text-align: center;
+}
+.right{
+    background: url("https://image.freepik.com/free-vector/abstract-blue-background_1048-1511.jpg");
+    width: 65%;
+    text-align: center;
+    border: 20px solid silver;
+    margin: 10px;
+    background-size: cover;
+   font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+}
+img{ 
+    width: 320px;
+    border: 20px solid white;
+    border-radius: 500px;
+    padding: 20px;
+    height: 320px;
+}
+.main{
+    display: flex;
+}
+.footer{
+    background: url("https://media.dojmt.gov/wp-content/uploads/9090-an-abstract-blue-background-pv.jpg");
+    border: 20px solid silver;
+    padding:15px;
+    text-align:center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
+}
+button{
+    color:white;
+    background: url("https://comps.canstockphoto.com/sparkling-background-luminous-blue-drawing_csp42451694.jpg");
+    width: 200px;
+    height: 75px;
+    border-radius: 10px;
+    border: 10px solid ;
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+}
+button:hover{ 
+    color:yellow;
+}
